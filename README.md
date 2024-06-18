@@ -36,7 +36,7 @@ Vacuum (2) (4) 为替换接头。
 
 Solidworks选中地面草图直接编辑为所需直径
 
-注意：编辑为外径，需要加上2mm的厚度。
+**注意：编辑为外径，需要加上2mm的厚度。**
 
  ![image](https://github.com/FredPan04/-/assets/64635943/d7943cb8-b6df-4468-9596-fd238f7d8a64)
 
